@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7328571D-1FCD-416D-BB7F-FFF30F70042D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OficinaNuvem.Auth.API", "src\OficinaNuvem.Auth.API\OficinaNuvem.Auth.API.csproj", "{F4705069-7E8E-4A04-89F0-62A955B2ABA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4705069-7E8E-4A04-89F0-62A955B2ABA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4705069-7E8E-4A04-89F0-62A955B2ABA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4705069-7E8E-4A04-89F0-62A955B2ABA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4705069-7E8E-4A04-89F0-62A955B2ABA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F4705069-7E8E-4A04-89F0-62A955B2ABA6} = {7328571D-1FCD-416D-BB7F-FFF30F70042D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31BE4E95-5836-4602-B0BF-35185FC6FDDB}
+	EndGlobalSection
+EndGlobal
